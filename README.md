@@ -3,9 +3,9 @@
 Projeto desenvolvido durante o curso React: Como os componentes funcionam, da Formação Front End T6 - ONE Oracle + Alura
 
 
-<p> Durante o curso foi trabalhado a implementação de novas funções no projeto Organo, uma plataforma de organogramas onde o usuário pode adicionar cards personalizados, divididos em diferentes categorias. 
+<p>Durante o curso foi trabalhado a implementação de novas funções no projeto Organo, uma plataforma de organogramas onde o usuário pode adicionar cards personalizados, divididos em diferentes categorias. 
 Agora também é possível que o usuário personalize a cor dos cards, marque seus favoritos, além de adicionar novos times através de um formulário.
-Fiz pequenas mudanças nas cores do projeto original e também implementei novos botões (github e linkedin). </p>
+Fiz pequenas mudanças nas cores do projeto original e também implementei novos botões (github e linkedin).</p>
 
 <h2>Funcionalidades:</h2> 
 <p>Organizar cards por categorias</p>
