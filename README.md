@@ -1,6 +1,6 @@
 # Organo Alura v.2
 
-Projeto desenvolvido durante o curso React: Como os componentes funcionam, da Formação Front End T6 - ONE + Alura
+Projeto desenvolvido durante o curso React: Como os componentes funcionam, da Formação Front End T6 - ONE Oracle + Alura
 
 
 <p> Durante o curso foi trabalhado a implementação de novas funções no projeto Organo, uma plataforma de organogramas onde o usuário pode adicionar cards personalizados, divididos em diferentes categorias. 
